@@ -1,13 +1,13 @@
-| Nama      | Fajar Agung Nugroho |
+| Nama      | Firman Lintar Nur Rohman |
 | ----------- | ----------- |
-| NIM     | 312010448       |
+| NIM     | 312010197      |
 | Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum
 Membuka text editor, Saya menggunakan Sublime text
 ![img1!](assets/img/praktikum/start.png)
 
-## 1. Membuat Paragraf 
+## 1. Membuat Paragraf
 ![img2!](assets/img/praktikum/2.png)
 
 ## 2. Menambahkan Judul
@@ -28,7 +28,7 @@ Lalu berikutnya halaman 2
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
-2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya! 
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!
 3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya!
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
@@ -38,7 +38,7 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ## Jawab
 1. Saya akan melakukan perubahan pada tag html, gambar dibawah merupakan syntax HTML sebelum saya rubah
 ![img1!](assets/img/1/1.png "before")
-Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. 
+Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut.
 Seperti gambar dibawah
 ![img1!](assets/img/1/1-1.png "after")
 
